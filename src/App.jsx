@@ -253,10 +253,10 @@ function App() {
           <p className="mt-2">
             📧{" "}
             <a
-              href="mailto:accbest.main@gmail.com"
+              href="mailto:info@accbest.sg"
               className="text-blue-600 hover:underline"
             >
-              accbest.main@gmail.com
+              info@accbest.sg
             </a>
           </p>
         </div>
